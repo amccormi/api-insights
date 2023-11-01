@@ -2,6 +2,8 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/cisco-developer/api-insights)
 [![devenv-runit](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-runable-icon.svg)](https://developer.cisco.com/learning/labs/api-insights-101)
 
+> :warning: **IMPORTANT: The Cisco Developer API Insights GitHub project will be closed effective November 30, 2023. Thank you for being part of our journey. To learn more about Cisco’s developer and open source projects, please check out [https://developer.cisco.com](https://developer.cisco.com/) and [https://opensource.cisco.com](https://opensource.cisco.com/). If you have any issues or questions, please log an issue on this repo.**
+
 # API Insights
 [![API Insights Logo](https://user-images.githubusercontent.com/5516389/199577047-132e193d-2ce0-481d-b54e-c6e2729053f4.svg)](https://developer.cisco.com/site/api-insights/)
 
